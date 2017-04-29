@@ -1,0 +1,22 @@
+body{
+    background: url('img/background.png') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+#container{
+    padding: 20px;
+    margin: 20px auto;
+    width: 500px;
+    border: 2px; solid-color: #000;
+
+}
+#logo{
+    margin-top: 20px;
+}
+
+.page {
+    margin-top: 60px;
+}
