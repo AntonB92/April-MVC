@@ -11,3 +11,6 @@ Simple Control Managment System
 
 Framework - Symfony 2.8.19
 Styling - Bootstrap + CSS 3
+
+Screen: 
+![alt text](April-MVC/Screenshot.png)
