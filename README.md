@@ -13,4 +13,4 @@ Framework - Symfony 2.8.19
 Styling - Bootstrap + CSS 3
 
 Screen: 
-![alt text](April-MVC/Screenshot.png)
+![alt text](https://github.com/AntonB92/April-MVC/blob/master/April-MVC/Screenshot.png)
